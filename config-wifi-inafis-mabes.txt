@@ -1,0 +1,8 @@
+config router modem:
+old password: Qz101TXZ101
+username: inaifis bsh
+new password: inafisbandarasoetta
+==================================
+config wifi
+username: IPS_POLRES_KPP SOEKARNO HATA 2
+password: indonesia!
